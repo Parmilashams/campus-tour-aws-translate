@@ -86,7 +86,7 @@ Campus Tour Translation API is running.
 
 ## Notes
 
-- Ensure your AWS IAM user has **TranslateFullAccess** permissions.  
+- Try to make sure your AWS IAM user has **TranslateFullAccess** permissions.  
 - The provided `point_id` must exist in the `roompoints` table on Supabase.   
 
 
